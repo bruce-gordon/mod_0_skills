@@ -9,6 +9,6 @@ color (string)
 
 Class Methods:
 addEntree (adds 1 additional entree string to the entree array)
-itemsUnordered (subtracts itemsPreviouslyOrdered from totalMenuItems)
+itemsUnordered (totalMenuItems - itemsPreviouslyOrdered)
 closeMenu (changes isOpen to false)
 changeColor (changes color)
