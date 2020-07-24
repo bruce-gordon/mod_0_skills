@@ -1,0 +1,9 @@
+var food = "Burrito"
+var isDelicious = true
+food = "Dim Sum"
+var num2 = 10
+var num7 = 5
+var quotient = num7 / num2
+var songs = ["Trusty Chords", "Hotel California", "I Am the Walrus"]
+songs.shift()
+food.length
