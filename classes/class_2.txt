@@ -1,0 +1,15 @@
+Class: Burger
+
+Class Attributes:
+toppings (array)
+burgerName (string)
+regularPrice (integer)
+isDiscounted (boolean)
+discount (float)
+
+Class Methods:
+holdTopping (remove one topping from toppings array)
+renameBurger (change the burgerName)
+offerDiscount (change isDiscounted to true and multiple regularPrice integer
+by discount float)
+raisePrice (add 1 to regularPrice)
