@@ -1,0 +1,23 @@
+Class Object Example: Outlaw BBQ Burger
+
+Object Attribute Values:
+toppings: ["BBQ Sauce", "Bacon", "Cheddar", "Jalapeno"]
+burgerName: "Outlaw BBQ Burger"
+regularPrice: 10
+isDiscounted: false
+discount: .9
+
+Class Methods:
+holdTopping (remove "Cheddar" from array):
+toppings = ["BBQ Sauce", "Bacon", "Jalapeno"]
+
+renameBurger (change name):
+burgerName = "Spicy Western Burger"
+
+offerDiscount (change isDiscounted to true and multiple regularPrice integer
+by discount float):
+isDiscounted = true
+10 * .9 = 9
+
+raisePrice (add 1 to regularPrice):
+1 + 10 = 11
