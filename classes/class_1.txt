@@ -8,7 +8,7 @@ isOpen (boolean)
 color (string)
 
 Menu Methods:
-addEntree (adds 1 additional entree string to the entree array)
+addEntree (adds 1 additional entree string to the entreeTitles array)
 itemsUnordered (totalMenuItems - itemsPreviouslyOrdered)
 closeMenu (changes isOpen to false)
 changeColor (changes color)
