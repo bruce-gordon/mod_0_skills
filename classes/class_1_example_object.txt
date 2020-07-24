@@ -1,0 +1,18 @@
+Class Object: Tacos Feliz Menu
+
+Object Attributes:
+entreeTitles (array): ["Carnitas", "Barbacoa", "Al Pastor"]
+totalMenuItems (integer): 10
+itemsPreviouslyOrdered (integer): 8
+isOpen (boolean): true
+color (string): "Red"
+
+Object Methods:
+addEntree (adds 1 additional entree, "Carne Asada"):
+["Carnitas", "Barbacoa", "Al Pastor", "Carne Asada"]
+
+itemsUnordered (totalMenuItems - itemsPreviouslyOrdered): 2
+
+closeMenu (changes isOpen to false): false
+
+changeColor (changes color): "Green"
