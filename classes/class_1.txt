@@ -1,13 +1,13 @@
 Class: Menu
 
-Class Attributes:
+Menu Attributes:
 entreeTitles (array)
 totalMenuItems (integer)
 itemsPreviouslyOrdered (integer)
 isOpen (boolean)
 color (string)
 
-Class Methods:
+Menu Methods:
 addEntree (adds 1 additional entree string to the entree array)
 itemsUnordered (totalMenuItems - itemsPreviouslyOrdered)
 closeMenu (changes isOpen to false)
