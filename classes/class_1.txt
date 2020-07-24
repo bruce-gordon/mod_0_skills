@@ -1,0 +1,14 @@
+Class: Menu
+
+Class Attributes:
+entreeTitles (array)
+totalMenuItems (integer)
+itemsPreviouslyOrdered (integer)
+isOpen (boolean)
+color (string)
+
+Class Methods:
+addEntree (adds 1 additional entree string to the entree array)
+itemsUnordered (subtracts itemsPreviouslyOrdered from totalMenuItems)
+closeMenu (changes isOpen to false)
+changeColor (changes color)
